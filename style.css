@@ -33,7 +33,7 @@ main{
     align-items:flex-start;
     display: grid; grid-template-columns;
 
-    background-color: #5a8888;
+    
   
     
 }
@@ -46,6 +46,5 @@ main{
   align-items:flex-start;
   display: grid; grid-template-columns;
 
-  background-color: #5a8888;
   
 }
